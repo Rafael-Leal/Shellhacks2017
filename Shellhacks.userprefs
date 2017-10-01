@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TurtleFinder.cs">
+    <Files>
+      <File FileName="Assets\OVR\Scripts\Util\OVRPlayerController.cs" Line="3" Column="10" />
+      <File FileName="Assets\Scripts\LevelManager.cs" Line="22" Column="44" />
+      <File FileName="Assets\Scripts\MainCamera.cs" Line="16" Column="1" />
+      <File FileName="Assets\Scripts\TurtleFinder.cs" Line="12" Column="1" />
+      <File FileName="Assets\Assets\Standard Assets\Environment\Water\Water\Scripts\Water.cs" Line="137" Column="14" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
